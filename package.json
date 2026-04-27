@@ -1,0 +1,15 @@
+{
+  "name": "ram-commerce",
+  "version": "0.1.0",
+  "private": true,
+  "description": "RAM Commerce API baseline",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
